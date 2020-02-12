@@ -106,3 +106,9 @@ The following directory layout indicates with a * the files that the student is 
 
 
 Running and Testing
+Running in the Classroom Project Workspace (recommended)
+The Project Workspace environment is already preconfigured with all of the services you need to complete your project. No additional configuration is required.
+
+The following services are available in the classroom workspace environment:
+
+
