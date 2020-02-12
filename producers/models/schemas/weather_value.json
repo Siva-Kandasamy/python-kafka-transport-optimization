@@ -1,0 +1,10 @@
+{   
+    "type":"record",
+    "name":"weather_status",
+    "namespace":"weather_status",
+    "fields":[
+    {"name":"temperature","type":"int"},
+    {"name":"status","type":"string"}
+    ]
+}
+
